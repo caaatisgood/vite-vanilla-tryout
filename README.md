@@ -1,5 +1,11 @@
 # vite-vanilla-tryout
 
+## Installation
+
+```sh
+npm install
+```
+
 ## Scripts
 
 ### Dev
